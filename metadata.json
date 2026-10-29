@@ -1,0 +1,6 @@
+{
+  "name": "FoodAI - Restaurant Recommendation System",
+  "description": "AI-powered restaurant recommendation engine and smart chatbot built by Lalit Verma, Ritesh, and Sourabh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
